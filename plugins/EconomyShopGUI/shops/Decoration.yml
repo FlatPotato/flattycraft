@@ -353,3 +353,7 @@ pages:
         material: wither_rose
         buy: 10
         sell: 4
+      '88':
+        material: sea_pickle
+        buy: 60
+        sell: 20
